@@ -21,6 +21,7 @@ Hello, I am a fullstack web developer with knowledge of html, css, javascript, t
 ### :floppy_disk: Databases
 
 | <img title="MySQL" alt="MySQL" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> | <img title="PostgreSQL" alt="PostgreSQL" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> | <img title="MongoDB" alt="MongoDB" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> | 
+[![My Skills](https://skillicons.dev/icons?i=mysql,spring,postgresql,mongo)](https://skillicons.dev)
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 🖼️ Frameworks & libraries
