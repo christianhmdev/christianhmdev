@@ -15,21 +15,19 @@ Hello, I am a fullstack web developer with knowledge of html, css, javascript, t
 
 ### :speech_balloon: Languages
 
-| <img title="Java" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> | <img alt="JavaScript" title="JavaScript" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img alt="TypeScript" title="TypeScript" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20210506173343"> | <img title="HTML" alt="HTML" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> | <img title="CSS" alt="CSS" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,typescript)](https://skillicons.dev)
+
+### 🖼️ Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,bootstrap,tailwind)](https://skillicons.dev)
 
 ### :floppy_disk: Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongo)](https://skillicons.dev)
 
-### 🖼️ Frameworks & libraries
-
-| <img title="Spring" alt="Spring" width="55px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"> | <img title="Angular" alt="Angular" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png?20160527092314"> | <img title="Bootstrap" alt="Bootstrap" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> | <img title="Tailwind" alt="Tailwind" width="55px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"> |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 ### :wrench: Tools
 
-| <img title="IntelliJ" alt="IntelliJ" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"> | <img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> | <img title="npm" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"> | <img title="Git" alt="Git" width="55px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> | <img title="GitHub" alt="GitHub" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Github_logo_svg.svg"> | <img title="Postman" alt="Postman" width="55px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> | 
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github,postman)](https://skillicons.dev)
 <br>
   
 ## :muscle: My strengths
