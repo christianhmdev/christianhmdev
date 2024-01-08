@@ -7,27 +7,28 @@
   </div>
 </div>
 
-## ⚡ About me
+## About me 👨‍💻
 
 +3 year of experience as a Frontend developer with Java and Spring. <br>
 +2 year of experience as a Frontend developer with Angular. <br>
 I appreciate feedback and take it into consideration. <br>
 I invite you to explore my portfolio, and together we can achieve great things.
-## ⚡ Technologies
 
-### :speech_balloon: Languages
+## My skills 🛠️
+
+### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,typescript)](https://skillicons.dev)
 
-### 🖼️ Frameworks
+### Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=spring,angular,bootstrap,tailwind)](https://skillicons.dev)
 
-### :floppy_disk: Databases
+### Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongo)](https://skillicons.dev)
 
-### :wrench: Tools
+### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github,postman)](https://skillicons.dev)
 <br>
