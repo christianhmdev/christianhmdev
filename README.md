@@ -20,8 +20,7 @@ Hello, I am a fullstack web developer with knowledge of html, css, javascript, t
 
 ### :floppy_disk: Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,spring,postgresql,mongo)](https://skillicons.dev)
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongo)](https://skillicons.dev)
 
 ### 🖼️ Frameworks & libraries
 
