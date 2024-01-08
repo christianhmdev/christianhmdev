@@ -1,5 +1,5 @@
 
-<h1 align="center"> 🖥️ I'm Christian Huaman </h1>
+<h1 align="center"> 🖥️ Hi! 🤘 I'm Christian Huaman </h1>
 
 <div style="text-align: center;">
   <div style="display: inline-block; text-align: left; padding: 0 20px;">
@@ -7,10 +7,12 @@
   </div>
 </div>
 
-`If you are self-taught, you will never have limits.`
+## ⚡ About me
 
-Hello, I am a fullstack web developer with knowledge of html, css, javascript, typescript, angular, I am dedicated to the development of APIs with Spring.
-
++3 year of experience as a Frontend developer with Java and Spring.
++2 year of experience as a Frontend developer with Angular.
+I appreciate feedback and take it into consideration.
+I invite you to explore my portfolio, and together we can achieve great things.
 ## ⚡ Technologies
 
 ### :speech_balloon: Languages
