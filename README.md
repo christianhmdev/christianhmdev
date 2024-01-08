@@ -9,9 +9,9 @@
 
 ## ⚡ About me
 
-+3 year of experience as a Frontend developer with Java and Spring.
-+2 year of experience as a Frontend developer with Angular.
-I appreciate feedback and take it into consideration.
++3 year of experience as a Frontend developer with Java and Spring. <br>
++2 year of experience as a Frontend developer with Angular. <br>
+I appreciate feedback and take it into consideration. <br>
 I invite you to explore my portfolio, and together we can achieve great things.
 ## ⚡ Technologies
 
