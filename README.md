@@ -9,39 +9,10 @@
 
 ## About me 👨‍💻
 
-+3 year of experience as a Frontend developer with Java and Spring. <br>
-+2 year of experience as a Frontend developer with Angular. <br>
-I appreciate feedback and take it into consideration. <br>
-I invite you to explore my portfolio, and together we can achieve great things.
+Software Developer on the Back-end using Java and Spring. With the ability to build secure and scalable REST APIs. <br>
+Additionally, I have more than 1 year of experience in Angular, creating user interfaces and consuming services.
 
-## My skills 🛠️
+## Technology Skills 🛠️
 
-### Languages
-
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,typescript)](https://skillicons.dev)
-
-### Frameworks
-
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,bootstrap,tailwind)](https://skillicons.dev)
-
-### Databases
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongo)](https://skillicons.dev)
-
-### Tools
-
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github,postman)](https://skillicons.dev)
-<br>
-  
-## :muscle: My strengths
-- :question: I try to **learn** something new every day.
-- 👥 I try to bring out the best in people.
-
-<br>
-
-## :sweat_smile: My flaws
-- 🤯 Sometimes I find it hard to take a break.
-- :tshirt: I'm not good at dressing like an adult.
-
-<br>
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,typescript,spring,angular,bootstrap,tailwind,mysql,postgresql,mongo,idea,vscode,github,posman)](https://skillicons.dev)
 
