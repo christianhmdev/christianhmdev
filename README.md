@@ -14,5 +14,5 @@ Additionally, I have more than 1 year of experience in Angular, creating user in
 
 ## Technology Skills 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,typescript,spring,angular,bootstrap,tailwind,mysql,postgresql,mongo,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,typescript,spring,angular,bootstrap,tailwind,mysql,postgresql,mongo,git,github)](https://skillicons.dev)
 
