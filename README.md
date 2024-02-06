@@ -1,5 +1,5 @@
 
-<h1 align="center"> 🖥️ Hi! 🤘 I'm Christian Huaman </h1>
+<h1 align="center"> Hey, I'm Christian🤘 </h1>
 
 <div style="text-align: center;">
   <div style="display: inline-block; text-align: left; padding: 0 20px;">
