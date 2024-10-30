@@ -8,5 +8,5 @@
 
 ## Technology Skills 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,typescript,spring,angular,bootstrap,tailwind,mysql,postgresql,mongo,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,javascript,typescript,laravel,react,angular,bootstrap,tailwind,mysql,postgresql,mongo,git,github)](https://skillicons.dev)
 
