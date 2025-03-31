@@ -4,7 +4,7 @@
 
 ## About me 👨‍💻
 
-+2 Years of Experience as Web Developer.
++2 Years of Experience as Programmer Analyst.
 
 ## Technology Skills 🛠️
 
